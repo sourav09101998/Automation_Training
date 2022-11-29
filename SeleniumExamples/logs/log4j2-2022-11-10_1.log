@@ -1,0 +1,15 @@
+[INFO ] 2022-11-10 00:26:04.681 [main] Log4j2 - opened browser -ChromeDriver: chrome on WINDOWS (fba3e55461a745ca114947a56d2bfe80)
+[INFO ] 2022-11-10 00:26:04.683 [main] Log4j2 - navigate to google
+[INFO ] 2022-11-10 00:26:04.743 [main] Log4j2 - Search key entered
+[INFO ] 2022-11-10 00:26:04.788 [main] Log4j2 - java 8selected
+[INFO ] 2022-11-10 00:26:04.788 [main] Log4j2 - Key down pressed
+[INFO ] 2022-11-10 00:26:04.803 [main] Log4j2 - java 8selected
+[INFO ] 2022-11-10 00:26:05.856 [main] Log4j2 - Key down pressed
+[INFO ] 2022-11-10 00:26:05.876 [main] Log4j2 - java 8 featuresselected
+[INFO ] 2022-11-10 00:26:06.930 [main] Log4j2 - Key down pressed
+[INFO ] 2022-11-10 00:26:06.954 [main] Log4j2 - java 8 downloadselected
+[INFO ] 2022-11-10 00:26:08.039 [main] Log4j2 - Key down pressed
+[INFO ] 2022-11-10 00:26:08.057 [main] Log4j2 - java 8selected
+[INFO ] 2022-11-10 00:26:09.118 [main] Log4j2 - Key up pressed
+[INFO ] 2022-11-10 00:26:09.128 [main] Log4j2 - java 8 downloadselected
+[INFO ] 2022-11-10 00:26:10.327 [main] Log4j2 - quit

@@ -1,0 +1,33 @@
+[INFO ] 2022-11-15 09:46:59.552 [main] Log4j2 - 44
+[INFO ] 2022-11-15 09:48:06.937 [main] Log4j2 - 44
+[INFO ] 2022-11-15 09:49:14.415 [main] Log4j2 - 44
+[INFO ] 2022-11-15 09:50:00.649 [main] Log4j2 - 67
+[INFO ] 2022-11-15 09:50:00.867 [main] Log4j2 - 44
+[INFO ] 2022-11-15 10:02:26.539 [main] Log4j2 - 67
+[INFO ] 2022-11-15 10:02:26.760 [main] Log4j2 - 44
+[INFO ] 2022-11-15 15:29:15.338 [main] Log4j2 - 67
+[INFO ] 2022-11-15 15:37:51.202 [main] Log4j2 - 67
+[INFO ] 2022-11-15 15:37:51.509 [main] Log4j2 - 44
+[INFO ] 2022-11-15 15:40:55.876 [main] Log4j2 - 67
+[INFO ] 2022-11-15 15:40:56.178 [main] Log4j2 - 44
+[INFO ] 2022-11-15 16:36:35.858 [main] Log4j2 - First Window url:https://www.lambdatest.com/selenium-playground/window-popup-modal-demo
+[INFO ] 2022-11-15 16:36:36.760 [main] Log4j2 - Second window url:https://www.facebook.com/lambdatest/
+[INFO ] 2022-11-15 20:23:22.695 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-15 20:23:22.711 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-15 20:23:22.722 [main] Log4j2 - Admin
+[INFO ] 2022-11-15 20:23:22.732 [main] Log4j2 - ESS
+[INFO ] 2022-11-15 20:23:22.920 [main] Log4j2 - user selected:ESS
+[INFO ] 2022-11-15 20:28:57.467 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-15 20:28:57.495 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-15 20:28:57.511 [main] Log4j2 - Admin
+[INFO ] 2022-11-15 20:28:57.529 [main] Log4j2 - ESS
+[INFO ] 2022-11-15 20:28:57.719 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-15 20:29:00.292 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-15 20:29:00.305 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-15 20:29:00.315 [main] Log4j2 - Enabled
+[INFO ] 2022-11-15 20:29:00.327 [main] Log4j2 - Disabled
+[INFO ] 2022-11-15 20:29:00.472 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-15 20:29:43.000 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-15 20:29:43.013 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-15 20:29:43.024 [main] Log4j2 - Admin
+[INFO ] 2022-11-15 20:29:43.034 [main] Log4j2 - ESS

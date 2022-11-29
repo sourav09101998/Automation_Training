@@ -1,0 +1,32 @@
+[INFO ] 2022-11-21 00:13:09.777 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 00:13:09.807 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 00:13:09.823 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 00:13:09.839 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 00:13:10.055 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 00:13:10.854 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 00:13:10.872 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 00:13:10.891 [main] Log4j2 - Enabled
+[INFO ] 2022-11-21 00:13:10.903 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 00:13:11.098 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 00:13:20.305 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 00:13:20.323 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 00:13:20.330 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 00:13:20.345 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 00:13:20.534 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 00:13:21.331 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 00:13:21.345 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 00:13:21.360 [main] Log4j2 - Enabled
+[INFO ] 2022-11-21 00:13:21.379 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 00:13:21.534 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 09:14:45.848 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:14:45.880 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:14:45.896 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 09:14:45.899 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 09:14:46.103 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 09:14:46.823 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:14:46.839 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:14:46.853 [main] Log4j2 - Enabled
+[INFO ] 2022-11-21 09:14:46.867 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 09:14:47.015 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 09:15:24.999 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:15:25.012 [main] Log4j2 - -- Select --

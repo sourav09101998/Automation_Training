@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="4" parallel="tests" name="Suite">
+	<test name="TestParallel-TestChildWindow">
+		<parameter name="browser" value="chrome" />
+		<parameter name="version" value="107" />
+		<parameter name="platform" value="windows" />
+		<parameter name="testname" value="testingGridOnCloud.TestChildWindow" />
+		<classes>
+			<class name="testingGridOnCloud.TestChildWindow" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="TestParallel-TestFrames">
+		<parameter name="browser" value="chrome" />
+		<parameter name="version" value="107" />
+		<parameter name="platform" value="windows" />
+		<parameter name="testname" value="testingGridOnCloud.TestFrames" />
+		<classes>
+			<class name="testingGridOnCloud.TestFrames" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="TestParallel-TestHerokuapp">
+		<parameter name="browser" value="chrome" />
+		<parameter name="version" value="107" />
+		<parameter name="platform" value="windows" />
+		<parameter name="testname" value="testingGridOnCloud.TestHerokuapp" />
+		<classes>
+			<class name="testingGridOnCloud.TestHerokuapp" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="TestParallel-TestFlipkart">
+		<parameter name="browser" value="chrome" />
+		<parameter name="version" value="107" />
+		<parameter name="platform" value="windows" />
+		<parameter name="testname" value="testingGridOnCloud.TestFlipkart" />
+		<classes>
+			<class name="testingGridOnCloud.TestFlipkart" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

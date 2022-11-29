@@ -1,0 +1,32 @@
+[INFO ] 2022-11-15 20:55:09.692 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-15 20:55:09.711 [main] Log4j2 - Enabled
+[INFO ] 2022-11-15 20:55:09.723 [main] Log4j2 - Disabled
+[INFO ] 2022-11-15 20:55:09.877 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-15 20:55:38.498 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-15 20:55:38.513 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-15 20:55:38.527 [main] Log4j2 - Admin
+[INFO ] 2022-11-15 20:55:38.539 [main] Log4j2 - ESS
+[INFO ] 2022-11-15 20:55:38.701 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-15 20:55:41.207 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-15 20:55:41.218 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-15 20:55:41.230 [main] Log4j2 - Enabled
+[INFO ] 2022-11-15 20:55:41.242 [main] Log4j2 - Disabled
+[INFO ] 2022-11-15 20:55:41.393 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-15 20:56:55.676 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-15 20:56:55.692 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-15 20:56:55.702 [main] Log4j2 - Admin
+[INFO ] 2022-11-15 20:56:55.713 [main] Log4j2 - ESS
+[INFO ] 2022-11-15 20:56:55.873 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-15 20:56:58.379 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-15 20:56:58.391 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-15 20:56:58.402 [main] Log4j2 - Enabled
+[INFO ] 2022-11-15 20:56:58.414 [main] Log4j2 - Disabled
+[INFO ] 2022-11-15 20:56:58.553 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-15 21:00:29.284 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-15 21:00:29.297 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-15 21:00:29.306 [main] Log4j2 - Admin
+[INFO ] 2022-11-15 21:00:29.316 [main] Log4j2 - ESS
+[INFO ] 2022-11-15 21:00:29.478 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-15 21:00:31.957 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-15 21:00:31.969 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-15 21:00:31.981 [main] Log4j2 - Enabled
