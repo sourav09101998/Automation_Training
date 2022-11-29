@@ -1,0 +1,21 @@
+[INFO ] 2022-11-13 23:40:17.530 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-13 23:40:17.545 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-13 23:40:17.686 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-13 23:47:12.313 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-13 23:47:12.328 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-13 23:47:12.474 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-13 23:53:19.857 [main] Log4j2 - Search key entered
+[INFO ] 2022-11-13 23:53:20.996 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-13 23:53:21.008 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-13 23:53:21.173 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-13 23:54:40.535 [main] Log4j2 - Search key entered
+[INFO ] 2022-11-13 23:54:41.604 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-13 23:54:41.615 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-13 23:54:41.756 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-13 23:55:43.354 [main] Log4j2 - Search key entered
+[INFO ] 2022-11-13 23:55:46.421 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-13 23:55:46.430 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-13 23:55:46.589 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-13 23:59:56.868 [main] Log4j2 - Search key entered
+[INFO ] 2022-11-13 23:59:59.959 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-13 23:59:59.971 [main] Log4j2 - -- Select --

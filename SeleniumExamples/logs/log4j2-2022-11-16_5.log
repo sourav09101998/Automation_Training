@@ -1,0 +1,27 @@
+[INFO ] 2022-11-16 10:17:47.336 [main] Log4j2 - title of toast 
+[INFO ] 2022-11-16 10:18:24.202 [main] Log4j2 - title of toast Success
+[INFO ] 2022-11-16 10:18:28.359 [main] Log4j2 - title of toast Success
+[INFO ] 2022-11-16 10:18:32.807 [main] Log4j2 - title of toast Success
+[INFO ] 2022-11-16 10:18:37.358 [main] Log4j2 - title of toast Success
+[INFO ] 2022-11-16 11:27:36.241 [main] Log4j2 - title of toast Success
+[INFO ] 2022-11-16 11:27:40.388 [main] Log4j2 - title of toast Success
+[INFO ] 2022-11-16 11:27:44.850 [main] Log4j2 - title of toast 
+[INFO ] 2022-11-16 11:27:50.762 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-16 11:27:50.777 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-16 11:27:50.789 [main] Log4j2 - Admin
+[INFO ] 2022-11-16 11:27:50.803 [main] Log4j2 - ESS
+[INFO ] 2022-11-16 11:27:50.954 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-16 11:27:53.653 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-16 11:27:53.663 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-16 11:27:53.674 [main] Log4j2 - Enabled
+[INFO ] 2022-11-16 11:27:53.684 [main] Log4j2 - Disabled
+[INFO ] 2022-11-16 11:27:53.836 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-16 16:06:38.858 [main] Log4j2 - First Window url:https://www.lambdatest.com/selenium-playground/window-popup-modal-demo
+[INFO ] 2022-11-16 16:06:39.434 [main] Log4j2 - Second window url:https://www.facebook.com/lambdatest/
+[INFO ] 2022-11-16 16:09:02.773 [TestNG-test=TestParallel-3] Log4j2 - Hindi Sahitya Ka Saral Itihas
+[INFO ] 2022-11-16 16:09:02.799 [TestNG-test=TestParallel-3] Log4j2 - 1984
+[INFO ] 2022-11-16 16:09:02.819 [TestNG-test=TestParallel-3] Log4j2 - Hindi Sahitya Ka Itihas
+[INFO ] 2022-11-16 16:09:02.835 [TestNG-test=TestParallel-3] Log4j2 - Eternal Echoes
+[INFO ] 2022-11-16 16:09:02.858 [TestNG-test=TestParallel-3] Log4j2 - Ret Samadhi
+[INFO ] 2022-11-16 16:09:02.874 [TestNG-test=TestParallel-3] Log4j2 - Vikramorvashiyam
+[INFO ] 2022-11-16 16:09:02.903 [TestNG-test=TestParallel-3] Log4j2 - 26% off

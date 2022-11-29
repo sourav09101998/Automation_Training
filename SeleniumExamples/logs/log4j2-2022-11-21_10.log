@@ -1,0 +1,18 @@
+[INFO ] 2022-11-21 14:30:26.676 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 14:30:26.704 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 14:30:26.893 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 14:30:29.162 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 14:30:29.174 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 14:30:29.191 [main] Log4j2 - Enabled
+[INFO ] 2022-11-21 14:30:29.207 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 14:30:29.376 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 14:32:18.844 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 14:32:18.868 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 14:32:18.884 [main] Log4j2 - Enabled
+[INFO ] 2022-11-21 14:32:18.899 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 14:32:19.145 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 14:34:52.809 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 14:34:52.979 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 14:34:53.014 [main] Log4j2 - Enabled
+[INFO ] 2022-11-21 14:34:53.059 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 14:34:53.305 [main] Log4j2 - user selected:Enabled

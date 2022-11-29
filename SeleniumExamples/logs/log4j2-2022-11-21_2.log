@@ -1,0 +1,33 @@
+[INFO ] 2022-11-21 09:15:25.033 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 09:15:25.107 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 09:15:25.321 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 09:15:26.163 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:15:26.176 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:15:26.192 [main] Log4j2 - Enabled
+[INFO ] 2022-11-21 09:15:26.207 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 09:15:26.400 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 09:15:34.736 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:15:34.749 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:15:34.767 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 09:15:34.784 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 09:15:34.984 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 09:15:35.725 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:15:35.740 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:15:35.753 [main] Log4j2 - Enabled
+[INFO ] 2022-11-21 09:15:35.769 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 09:15:35.930 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 09:18:28.901 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:18:28.954 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:18:28.971 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 09:18:28.982 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 09:18:29.174 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 09:18:29.963 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:18:29.980 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:18:29.995 [main] Log4j2 - Enabled
+[INFO ] 2022-11-21 09:18:30.012 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 09:18:30.166 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 09:19:17.193 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:19:17.208 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:19:17.224 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 09:19:17.239 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 09:19:17.432 [main] Log4j2 - user selected:Admin

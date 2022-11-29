@@ -1,0 +1,31 @@
+[INFO ] 2022-11-16 00:39:19.134 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-16 00:39:19.152 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-16 00:39:19.161 [main] Log4j2 - Enabled
+[INFO ] 2022-11-16 00:39:19.173 [main] Log4j2 - Disabled
+[INFO ] 2022-11-16 00:39:19.324 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-16 00:40:38.928 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-16 00:40:38.969 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-16 00:40:39.003 [main] Log4j2 - Admin
+[INFO ] 2022-11-16 00:40:39.028 [main] Log4j2 - ESS
+[INFO ] 2022-11-16 00:40:39.248 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-16 00:41:02.599 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-16 00:41:02.627 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-16 00:41:02.647 [main] Log4j2 - Admin
+[INFO ] 2022-11-16 00:41:02.666 [main] Log4j2 - ESS
+[INFO ] 2022-11-16 00:41:02.858 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-16 00:41:05.486 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-16 00:41:05.498 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-16 00:41:05.511 [main] Log4j2 - Enabled
+[INFO ] 2022-11-16 00:41:05.525 [main] Log4j2 - Disabled
+[INFO ] 2022-11-16 00:41:05.685 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-16 01:23:11.440 [main] Log4j2 - title of toast Error
+[INFO ] 2022-11-16 09:51:14.061 [main] Log4j2 - title of toast Error
+[INFO ] 2022-11-16 10:10:39.792 [main] Log4j2 - title of toast Success
+[INFO ] 2022-11-16 10:10:43.906 [main] Log4j2 - title of toast Success
+[INFO ] 2022-11-16 10:10:48.297 [main] Log4j2 - title of toast 
+[INFO ] 2022-11-16 10:12:30.197 [main] Log4j2 - title of toast Success
+[INFO ] 2022-11-16 10:13:25.684 [main] Log4j2 - title of toast Success
+[INFO ] 2022-11-16 10:13:29.834 [main] Log4j2 - title of toast 
+[INFO ] 2022-11-16 10:17:33.154 [main] Log4j2 - title of toast Success
+[INFO ] 2022-11-16 10:17:37.369 [main] Log4j2 - title of toast Success
+[INFO ] 2022-11-16 10:17:41.828 [main] Log4j2 - title of toast Success

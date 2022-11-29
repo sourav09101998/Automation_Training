@@ -1,0 +1,33 @@
+[INFO ] 2022-11-21 09:31:40.187 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 09:31:40.413 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 09:34:10.867 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:34:10.905 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:34:10.943 [main] Log4j2 - Enabled
+[INFO ] 2022-11-21 09:34:10.978 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 09:34:11.253 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 09:35:09.485 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:35:09.501 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:35:09.513 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 09:35:09.528 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 09:35:09.707 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 09:35:09.866 [main] Log4j2 - 
+[INFO ] 2022-11-21 09:35:11.475 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:35:11.488 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:35:11.504 [main] Log4j2 - Enabled
+[INFO ] 2022-11-21 09:35:11.518 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 09:35:11.671 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 09:37:42.131 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:37:42.156 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:37:42.171 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 09:37:42.185 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 09:37:42.366 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 09:37:57.296 [main] Log4j2 - 
+[INFO ] 2022-11-21 09:43:46.908 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:43:46.937 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:43:46.951 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 09:43:46.964 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 09:43:47.137 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 09:43:56.370 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 09:44:09.242 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:44:09.259 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:44:09.273 [main] Log4j2 - Enabled

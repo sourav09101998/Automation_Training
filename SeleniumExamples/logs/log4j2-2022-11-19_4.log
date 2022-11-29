@@ -1,0 +1,35 @@
+[INFO ] 2022-11-19 12:56:02.147 [main] Log4j2 - $24.95
+[INFO ] 2022-11-19 12:56:02.219 [main] Log4j2 - 0
+[INFO ] 2022-11-19 12:58:31.564 [main] Log4j2 - Home Page Title:Welcome to Green Mountain Outpost
+[INFO ] 2022-11-19 12:58:33.915 [main] Log4j2 - ItemNumber
+[INFO ] 2022-11-19 12:58:33.952 [main] Log4j2 - ItemName
+[INFO ] 2022-11-19 12:58:33.986 [main] Log4j2 - UnitPrice
+[INFO ] 2022-11-19 12:58:34.020 [main] Log4j2 - OrderQuantity
+[INFO ] 2022-11-19 12:58:34.075 [main] Log4j2 - 1000
+[INFO ] 2022-11-19 12:58:34.110 [main] Log4j2 - 3PersonDomeTent
+[INFO ] 2022-11-19 12:58:34.144 [main] Log4j2 - $299.99
+[INFO ] 2022-11-19 12:58:34.200 [main] Log4j2 - 0
+[INFO ] 2022-11-19 12:58:34.252 [main] Log4j2 - 1001
+[INFO ] 2022-11-19 12:58:34.289 [main] Log4j2 - ExternalFrameBackpack
+[INFO ] 2022-11-19 12:58:34.395 [main] Log4j2 - $179.95
+[INFO ] 2022-11-19 12:58:34.459 [main] Log4j2 - 1
+[INFO ] 2022-11-19 12:58:34.516 [main] Log4j2 - 1002
+[INFO ] 2022-11-19 12:58:34.554 [main] Log4j2 - GlacierSunGlasses
+[INFO ] 2022-11-19 12:58:34.593 [main] Log4j2 - $67.99
+[INFO ] 2022-11-19 12:58:34.655 [main] Log4j2 - 0
+[INFO ] 2022-11-19 12:58:34.722 [main] Log4j2 - 1003
+[INFO ] 2022-11-19 12:58:34.764 [main] Log4j2 - PaddedSocks
+[INFO ] 2022-11-19 12:58:34.802 [main] Log4j2 - $19.99
+[INFO ] 2022-11-19 12:58:34.863 [main] Log4j2 - 0
+[INFO ] 2022-11-19 12:58:34.915 [main] Log4j2 - 1004
+[INFO ] 2022-11-19 12:58:34.951 [main] Log4j2 - HikingBoots
+[INFO ] 2022-11-19 12:58:34.986 [main] Log4j2 - $109.90
+[INFO ] 2022-11-19 12:58:35.038 [main] Log4j2 - 2
+[INFO ] 2022-11-19 12:58:35.092 [main] Log4j2 - 1005
+[INFO ] 2022-11-19 12:58:35.135 [main] Log4j2 - BackCountryShorts
+[INFO ] 2022-11-19 12:58:35.168 [main] Log4j2 - $24.95
+[INFO ] 2022-11-19 12:58:35.220 [main] Log4j2 - 0
+[INFO ] 2022-11-19 12:59:26.177 [main] Log4j2 - Home Page Title:Welcome to Green Mountain Outpost
+[INFO ] 2022-11-19 12:59:28.575 [main] Log4j2 - ItemNumber
+[INFO ] 2022-11-19 12:59:28.607 [main] Log4j2 - ItemName
+[INFO ] 2022-11-19 12:59:28.643 [main] Log4j2 - UnitPrice
