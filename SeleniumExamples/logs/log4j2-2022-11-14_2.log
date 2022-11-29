@@ -1,0 +1,33 @@
+[INFO ] 2022-11-14 12:49:26.861 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-14 12:49:32.088 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-14 12:49:32.103 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-14 12:49:32.116 [main] Log4j2 - Enabled
+[INFO ] 2022-11-14 12:49:32.129 [main] Log4j2 - Disabled
+[INFO ] 2022-11-14 12:49:32.285 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-14 12:53:05.262 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-14 12:53:05.278 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-14 12:53:05.289 [main] Log4j2 - Admin
+[INFO ] 2022-11-14 12:53:05.301 [main] Log4j2 - ESS
+[INFO ] 2022-11-14 12:53:05.454 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-14 12:53:07.942 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-14 12:53:07.955 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-14 12:53:07.966 [main] Log4j2 - Enabled
+[INFO ] 2022-11-14 12:53:07.978 [main] Log4j2 - Disabled
+[INFO ] 2022-11-14 12:53:08.120 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-14 16:54:02.959 [main] Log4j2 - Hindi Sahitya Ka Itihas
+[INFO ] 2022-11-14 16:54:02.976 [main] Log4j2 - Eternal Echoes
+[INFO ] 2022-11-14 16:54:02.991 [main] Log4j2 - Ret Samadhi
+[INFO ] 2022-11-14 16:54:03.003 [main] Log4j2 - How to Read a Book
+[INFO ] 2022-11-14 16:54:03.013 [main] Log4j2 - 
+[INFO ] 2022-11-14 16:54:03.025 [main] Log4j2 - 
+[INFO ] 2022-11-14 16:54:03.048 [main] Log4j2 - 35% off
+[INFO ] 2022-11-14 16:54:03.059 [main] Log4j2 - 38% off
+[INFO ] 2022-11-14 16:54:03.073 [main] Log4j2 - 45% off
+[INFO ] 2022-11-14 16:54:03.085 [main] Log4j2 - 30% off
+[INFO ] 2022-11-14 16:54:03.098 [main] Log4j2 - 
+[INFO ] 2022-11-14 16:54:03.109 [main] Log4j2 - 
+[INFO ] 2022-11-14 16:57:28.797 [main] Log4j2 - Hindi Sahitya Ka Itihas
+[INFO ] 2022-11-14 16:57:28.815 [main] Log4j2 - Eternal Echoes
+[INFO ] 2022-11-14 16:57:28.829 [main] Log4j2 - Ret Samadhi
+[INFO ] 2022-11-14 16:57:28.843 [main] Log4j2 - How to Read a Book
+[INFO ] 2022-11-14 16:57:28.857 [main] Log4j2 - 

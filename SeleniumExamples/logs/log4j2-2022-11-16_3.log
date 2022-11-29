@@ -1,0 +1,33 @@
+[INFO ] 2022-11-16 00:33:10.973 [main] Log4j2 - Username, 
+[INFO ] 2022-11-16 00:33:11.004 [main] Log4j2 - User Role, 
+[INFO ] 2022-11-16 00:33:11.027 [main] Log4j2 - Employee Name, 
+[INFO ] 2022-11-16 00:33:11.048 [main] Log4j2 - Status, 
+[INFO ] 2022-11-16 00:33:11.077 [main] Log4j2 - Admin, 
+[INFO ] 2022-11-16 00:33:11.102 [main] Log4j2 - Admin, 
+[INFO ] 2022-11-16 00:33:11.130 [main] Log4j2 - Jethalal Gada, 
+[INFO ] 2022-11-16 00:33:11.159 [main] Log4j2 - Enabled, 
+[INFO ] 2022-11-16 00:35:50.566 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-16 00:35:50.591 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-16 00:35:50.612 [main] Log4j2 - Admin
+[INFO ] 2022-11-16 00:35:50.628 [main] Log4j2 - ESS
+[INFO ] 2022-11-16 00:35:50.839 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-16 00:35:53.421 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-16 00:35:53.436 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-16 00:35:53.450 [main] Log4j2 - Enabled
+[INFO ] 2022-11-16 00:35:53.471 [main] Log4j2 - Disabled
+[INFO ] 2022-11-16 00:35:53.626 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-16 00:36:49.769 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-16 00:36:49.786 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-16 00:36:49.797 [main] Log4j2 - Admin
+[INFO ] 2022-11-16 00:36:49.810 [main] Log4j2 - ESS
+[INFO ] 2022-11-16 00:36:50.013 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-16 00:36:52.805 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-16 00:36:52.827 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-16 00:36:52.852 [main] Log4j2 - Enabled
+[INFO ] 2022-11-16 00:36:52.880 [main] Log4j2 - Disabled
+[INFO ] 2022-11-16 00:36:53.072 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-16 00:39:16.308 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-16 00:39:16.336 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-16 00:39:16.348 [main] Log4j2 - Admin
+[INFO ] 2022-11-16 00:39:16.360 [main] Log4j2 - ESS
+[INFO ] 2022-11-16 00:39:16.541 [main] Log4j2 - user selected:Admin

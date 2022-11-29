@@ -1,0 +1,32 @@
+[INFO ] 2022-11-21 09:44:09.289 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 09:44:09.472 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 09:44:52.553 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:44:52.615 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:44:52.655 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 09:44:52.705 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 09:44:52.935 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 09:44:53.148 [main] Log4j2 - Aaliyah.Haq
+[INFO ] 2022-11-21 09:44:54.102 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:44:54.116 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:44:54.132 [main] Log4j2 - Enabled
+[INFO ] 2022-11-21 09:44:54.148 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 09:44:54.400 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 09:45:02.789 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:45:02.802 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:45:02.816 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 09:45:02.832 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 09:45:03.006 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 09:45:03.074 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 09:45:03.739 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:45:03.753 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:45:03.765 [main] Log4j2 - Enabled
+[INFO ] 2022-11-21 09:45:03.783 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 09:45:03.947 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 09:45:12.174 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:45:12.187 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:45:12.205 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 09:45:12.212 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 09:45:12.384 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 09:45:12.462 [main] Log4j2 - Alice.Duval
+[INFO ] 2022-11-21 09:45:13.126 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:45:13.138 [main] Log4j2 - -- Select --

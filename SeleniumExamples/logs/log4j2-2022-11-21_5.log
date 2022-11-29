@@ -1,0 +1,32 @@
+[INFO ] 2022-11-21 09:26:06.233 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 09:26:14.898 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:26:14.910 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:26:14.928 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 09:26:14.945 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 09:26:15.118 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 09:26:15.838 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:26:15.857 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:26:15.873 [main] Log4j2 - Enabled
+[INFO ] 2022-11-21 09:26:15.886 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 09:26:16.047 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 09:27:08.581 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:27:08.603 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:27:08.629 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 09:27:08.647 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 09:27:08.849 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 09:27:10.643 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:27:10.658 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:27:10.672 [main] Log4j2 - Enabled
+[INFO ] 2022-11-21 09:27:10.685 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 09:27:10.849 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 09:27:19.820 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:27:19.840 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:27:19.872 [main] Log4j2 - Admin
+[INFO ] 2022-11-21 09:27:19.928 [main] Log4j2 - ESS
+[INFO ] 2022-11-21 09:27:20.120 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-21 09:27:21.842 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-21 09:27:21.859 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-21 09:27:21.875 [main] Log4j2 - Enabled
+[INFO ] 2022-11-21 09:27:21.900 [main] Log4j2 - Disabled
+[INFO ] 2022-11-21 09:27:22.055 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-21 09:27:59.857 [main] Log4j2 - User list contains 3 elements

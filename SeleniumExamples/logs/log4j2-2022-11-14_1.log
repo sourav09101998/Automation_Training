@@ -1,0 +1,31 @@
+[INFO ] 2022-11-14 00:00:00.118 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-14 00:15:24.426 [main] Log4j2 - Search key entered
+[INFO ] 2022-11-14 00:15:27.603 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-14 00:15:27.615 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-14 00:15:27.769 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-14 00:21:01.279 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-14 00:21:01.297 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-14 00:21:01.458 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-14 00:37:13.770 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-14 00:37:13.791 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-14 00:37:13.931 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-14 12:35:30.070 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-14 12:35:30.087 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-14 12:35:30.237 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-14 12:39:30.387 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-14 12:39:30.407 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-14 12:39:30.575 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-14 12:44:08.096 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-14 12:44:08.114 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-14 12:44:08.127 [main] Log4j2 - Admin
+[INFO ] 2022-11-14 12:44:08.140 [main] Log4j2 - ESS
+[INFO ] 2022-11-14 12:44:08.299 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-14 12:44:13.502 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-14 12:44:13.514 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-14 12:44:13.527 [main] Log4j2 - Enabled
+[INFO ] 2022-11-14 12:44:13.545 [main] Log4j2 - Disabled
+[INFO ] 2022-11-14 12:44:13.698 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-14 12:49:26.663 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-14 12:49:26.677 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-14 12:49:26.689 [main] Log4j2 - Admin
+[INFO ] 2022-11-14 12:49:26.700 [main] Log4j2 - ESS

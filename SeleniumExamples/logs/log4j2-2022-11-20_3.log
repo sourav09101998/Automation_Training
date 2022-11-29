@@ -1,0 +1,32 @@
+[INFO ] 2022-11-20 23:36:55.540 [main] Log4j2 - Enabled
+[INFO ] 2022-11-20 23:36:55.564 [main] Log4j2 - Disabled
+[INFO ] 2022-11-20 23:36:55.736 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-20 23:37:03.395 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-20 23:37:03.411 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-20 23:37:03.430 [main] Log4j2 - Admin
+[INFO ] 2022-11-20 23:37:03.443 [main] Log4j2 - ESS
+[INFO ] 2022-11-20 23:37:03.624 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-20 23:37:06.441 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-20 23:37:06.459 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-20 23:37:06.466 [main] Log4j2 - Enabled
+[INFO ] 2022-11-20 23:37:06.482 [main] Log4j2 - Disabled
+[INFO ] 2022-11-20 23:37:06.702 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-20 23:38:15.796 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-20 23:38:15.812 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-20 23:38:15.828 [main] Log4j2 - Admin
+[INFO ] 2022-11-20 23:38:15.859 [main] Log4j2 - ESS
+[INFO ] 2022-11-20 23:38:16.044 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-20 23:38:18.957 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-20 23:38:18.965 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-20 23:38:18.996 [main] Log4j2 - Enabled
+[INFO ] 2022-11-20 23:38:19.011 [main] Log4j2 - Disabled
+[INFO ] 2022-11-20 23:38:19.192 [main] Log4j2 - user selected:Enabled
+[INFO ] 2022-11-20 23:38:26.857 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-20 23:38:26.878 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-20 23:38:26.895 [main] Log4j2 - Admin
+[INFO ] 2022-11-20 23:38:26.905 [main] Log4j2 - ESS
+[INFO ] 2022-11-20 23:38:27.082 [main] Log4j2 - user selected:Admin
+[INFO ] 2022-11-20 23:38:29.987 [main] Log4j2 - User list contains 3 elements
+[INFO ] 2022-11-20 23:38:30.019 [main] Log4j2 - -- Select --
+[INFO ] 2022-11-20 23:38:30.051 [main] Log4j2 - Enabled
+[INFO ] 2022-11-20 23:38:30.067 [main] Log4j2 - Disabled
